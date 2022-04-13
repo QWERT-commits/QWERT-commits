@@ -2,12 +2,12 @@
 
 <div align="left">
 <span>  </span>
-<img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&layout=compact&hide_border=true&langs_count=8&layout=compact" alt="qwert-commits" /><span>  </span><img height="210px" src="https://github-readme-stats.vercel.app/api?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&hide_border=true" alt="qwert-commits" />
+<img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&layout=compact&hide_border=true&langs_count=8&layout=compact" alt="qwert-commits" /><span>  </span><img height="230px" src="https://github-readme-stats.vercel.app/api?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&hide_border=true" alt="qwert-commits" />
 <span>  </span>
 </div>
 
 <div align="left">
 <span>  </span>
-<img height="152px" src="https://github-readme-streak-stats.herokuapp.com/?user=qwert-commits&theme=dark&bg_color=0f0f0f&hide_border=true" alt="qwert-commits" /><span>  </span><img height="152px" src="https://github-readme-stats.vercel.app/api/pin/?username=QWERT-commits&repo=Mathmate&bg_color=151515&hide_border=true"/>
+<img height="166px" src="https://github-readme-streak-stats.herokuapp.com/?user=qwert-commits&theme=dark&bg_color=0f0f0f&hide_border=true" alt="qwert-commits" /><span>  </span><img height="166px" src="https://github-readme-stats.vercel.app/api/pin/?username=QWERT-commits&repo=Mathmate&bg_color=151515&hide_border=true"/>
 <span>  </span>
 </div>

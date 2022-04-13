@@ -21,5 +21,3 @@
     
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwert-commits&theme=dark" alt="qwert-commits" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwert-commits&theme=dark&bg_color=0d1117" alt="qwert-commits" /></p>

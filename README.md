@@ -36,9 +36,7 @@
 
      
  <div id="expand-box">
- <div id="expand-box2-header" class="clearfix">
+ <div id="expand-box-header" class="clearfix">
      <span style="float: left;"><h3 align="left">Connect with me:</a></h3></span> 
     <span style="float: center;"><h3 align="center">Languages and Tools:</a></h3></span>
  </div>
- 
-<h3 align="left">Connect</a></h3>

@@ -10,7 +10,7 @@
   <span style="float: center;"><h3 align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></h3></span>
  </div>
 
-<div align="center">
+<div align="left">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&layout=compact&hide_border=true&layout=compact&langs_count=8" alt="qwert-commits" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&hide_border=true" alt="qwert-commits" />
 <span>  </span>

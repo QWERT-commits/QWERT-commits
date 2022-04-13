@@ -12,14 +12,14 @@
 
     
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&layout=compact&hide_border=true" alt="qwert-commits" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwert-commits&show_icons=true&theme=dark&bg_color=0d1117&locale=en&layout=compact&hide_border=true" alt="qwert-commits" /></p>
 
     
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&hide_border=true" alt="qwert-commits" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=qwert-commits&show_icons=true&theme=dark&bg_color=0d1117&locale=en&hide_border=true" alt="qwert-commits" /></p>
 
     
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwert-commits&theme=dark&hide_border=true" alt="qwert-commits" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwert-commits&theme=dark&bg_color=0d1117&hide_border=true" alt="qwert-commits" /></p>
   
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=QWERT-commits&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

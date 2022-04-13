@@ -2,7 +2,7 @@
 
 - ⚡ I’m currently working on [Mathmate](https://github.com/QWERT-commits/Mathmate) and I’m currently learning Python, **C++, and UWP**
 
-<h3 align="left">Connect with me:   Languages and Tools:</h3>
+Connect with me:            Languages and Tools:
 <p align="left">
 <a href="https://stackoverflow.com/users/18782907" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18782907" height="30" width="40" /></a>
 </p>

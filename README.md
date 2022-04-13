@@ -28,9 +28,7 @@
     <span style="float: center;"><h3 align="center">Languages and Tools:</a></h3></span>
  </div>
  
- <pre>
-<h3 align="left">Connect with me:       Language and Tools:<h3>
-</pre>
+ <h3 align="left">Connect with me:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Language and Tools:<h3>
  
  <div id="expand-box2">
  <div id="expand-box2-header" class="clearfix">

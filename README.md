@@ -24,8 +24,8 @@
 
 <div id="expand-box">
  <div id="expand-box-header" class="clearfix">
-  <span style="float: left;"><h3 align="left">Connect with me:</h3></span> 
-  <span style="float: center;"><h3 align="center">Languages and Tools:</h3></span>
+     <span style="float: left;"><h3 align="left">Connect with me:</a></h3></span> 
+    <span style="float: center;"><h3 align="center">Languages and Tools:</a></h3></span>
  </div>
  
  <div id="expand-box">
@@ -33,3 +33,5 @@
   <span style="float: left;"><h3 align="left"><a href="https://stackoverflow.com/users/18782907" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18782907" height="30" width="40" /></a></h3></span> 
   <span style="float: center;"><h3 align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></h3></span>
  </div>
+
+<h3 align="left">Connect</a></h3>

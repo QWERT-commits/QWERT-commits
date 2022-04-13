@@ -19,8 +19,8 @@
 
 <h1 align="center">   </h1>  
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en" alt="qwert-commits" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en" alt="qwert-commits" /></p>
 
 <h1 align="center">   </h1>  
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=qwert-commits&theme=dark" alt="qwert-commits" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwert-commits&theme=dark" alt="qwert-commits" /></p>

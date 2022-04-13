@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm QWERT-commits</h1>
 
-- 🔭 I’m currently working on [Mathmate](https://github.com/QWERT-commits/Mathmate) and 🌱 I’m currently learning **C++ and UWP**
+- ⚡ I’m currently working on [Mathmate](https://github.com/QWERT-commits/Mathmate) and I’m currently learning Python, **C++, and UWP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

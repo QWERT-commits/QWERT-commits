@@ -23,11 +23,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwert-commits&theme=dark" alt="qwert-commits" /></p>
 
 
- <div id="expand-box">
- <div id="expand-box-header" class="clearfix">
-  <span style="float: left;">33</span> 
-  <span style="float: right;">55</span>
- </div>
  
  <div id="expand-box">
  <div id="expand-box2-header" class="clearfix">

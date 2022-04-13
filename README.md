@@ -21,3 +21,7 @@
     
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwert-commits&theme=dark" alt="qwert-commits" /></p>
+
+ <div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=QWERT-commits&theme=minimal" />
+</div>

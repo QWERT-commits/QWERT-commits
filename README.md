@@ -22,7 +22,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwert-commits&theme=dark" alt="qwert-commits" /></p>
 
-
+<div id="expand-box">
+ <div id="expand-box-header" class="clearfix">
+  <span style="float: left;"><h3 align="left">Connect with me:</h3></span> 
+  <span style="float: center;"><h3 align="center">Languages and Tools:</h3></span>
+ </div>
  
  <div id="expand-box">
  <div id="expand-box2-header" class="clearfix">

@@ -35,7 +35,5 @@
  </div>
     
 <div id="expand-box-header">
-      <span style="float: left;">Connect with me</span> 
-      <span style="float: right;">Languages and tools</span>
-      <div style="clear:both;"></div> <!-- Here we go --><div class="clear"></div>
+      <span style="float: left;">Connect with me:         Languages and tools:</span> 
 </div>

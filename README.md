@@ -12,7 +12,7 @@
 
     
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwert-commits&show_icons=true&theme=dark&bg_color=0f0f0f&locale=en&layout=compact&hide_border=true" alt="qwert-commits" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&layout=compact&hide_border=true" alt="qwert-commits" /></p>
 
     
 

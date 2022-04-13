@@ -15,12 +15,6 @@
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&layout=compact&hide_border=true&layout=compact&langs_count=8" alt="qwert-commits" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&hide_border=true" alt="qwert-commits" />
 <span>  </span>
 </div>
-    
- <div id="expand-box2">
- <div id="expand-box2-header" class="clearfix">
-  <span style="float: left;"><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&layout=compact&hide_border=true" alt="qwert-commits" /></span> 
-  <span style="float: right;"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&hide_border=true" alt="qwert-commits" /></span>
- </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwert-commits&theme=dark&bg_color=0f0f0f&hide_border=true" alt="qwert-commits" /></p>
   

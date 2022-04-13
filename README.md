@@ -25,8 +25,8 @@
 
  <div id="expand-box">
  <div id="expand-box-header" class="clearfix">
-  <span style="float: left;"><h3>Connect with me:</h3></span> 
-  <span style="float: right;"><h3>Languages and Tools:</h3></span>
+  <span style="float: left;">33</span> 
+  <span style="float: right;">55</span>
  </div>
  
  <div id="expand-box">

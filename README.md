@@ -23,7 +23,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwert-commits&theme=dark" alt="qwert-commits" /></p>
 
 <div id="expand-box">
- <div id="expand-box-header" class="clearfix">
+ <div id="expand-box2-header" class="clearfix">
      <span style="float: left;"><h3 align="left">Connect with me:</a></h3></span> 
     <span style="float: center;"><h3 align="center">Languages and Tools:</a></h3></span>
  </div>
@@ -34,4 +34,11 @@
   <span style="float: center;"><h3 align="center"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></h3></span>
  </div>
 
+     
+ <div id="expand-box">
+ <div id="expand-box2-header" class="clearfix">
+     <span style="float: left;"><h3 align="left">Connect with me:</a></h3></span> 
+    <span style="float: center;"><h3 align="center">Languages and Tools:</a></h3></span>
+ </div>
+ 
 <h3 align="left">Connect</a></h3>

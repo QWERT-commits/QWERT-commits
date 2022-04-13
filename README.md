@@ -13,8 +13,8 @@
     
  <div id="expand-box2">
  <div id="expand-box2-header" class="clearfix">
-  <span style="float: left;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&layout=compact&hide_border=true" alt="qwert-commits" /></span> 
-  <span style="float: right;"><img align="right" src="https://github-readme-stats.vercel.app/api?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&hide_border=true" alt="qwert-commits" /></span>
+  <span style="float: left;"><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&layout=compact&hide_border=true" alt="qwert-commits" /></span> 
+  <span style="float: right;"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&hide_border=true" alt="qwert-commits" /></span>
  </div>
 
 ###<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwert-###commits&show_icons=true&theme=dark&bg_color=151515&locale=en&layout=compact&hide_border=true" alt="qwert-commits" /></p>

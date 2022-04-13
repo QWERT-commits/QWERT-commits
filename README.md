@@ -28,6 +28,10 @@
     <span style="float: center;"><h3 align="center">Languages and Tools:</a></h3></span>
  </div>
  
+ <pre>
+<h3 align="left">Connect with me:       Language and Tools:<h3>
+</pre>
+ 
  <div id="expand-box2">
  <div id="expand-box2-header" class="clearfix">
   <span style="float: left;"><h3 align="left"><a href="https://stackoverflow.com/users/18782907" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18782907" height="30" width="40" /></a></h3></span> 

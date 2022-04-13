@@ -22,3 +22,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qwert-commits&theme=dark&bg_color=0f0f0f&hide_border=true" alt="qwert-commits" /></p>
   
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=QWERT-commits&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
+<span>  </span>
+</div>

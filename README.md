@@ -2,7 +2,7 @@
 
 <div align="left">
 <span>  </span>
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&layout=compact&hide_border=true&langs_count=8&layout=compact" alt="qwert-commits" /><span>  </span><img height="180px" src="https://github-readme-stats.vercel.app/api?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&hide_border=true" alt="qwert-commits" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&layout=pie&hide_border=true&langs_count=8" alt="qwert-commits" /><span>  </span><img height="180px" src="https://github-readme-stats.vercel.app/api?username=qwert-commits&show_icons=true&theme=dark&bg_color=151515&locale=en&hide_border=true" alt="qwert-commits" />
 <span>  </span>
 </div>
 
